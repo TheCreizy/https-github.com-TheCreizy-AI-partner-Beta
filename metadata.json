@@ -1,0 +1,7 @@
+{
+  "name": "Improv Partner V3.1 - Intentndo mejorar contexto. Boton de mute.",
+  "description": "An interactive, real-time improv partner powered by the Gemini Live API. Configure your story's scenes and perform live with an AI that listens and responds with streaming audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
